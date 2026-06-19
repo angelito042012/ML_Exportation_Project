@@ -5,10 +5,10 @@ PASO 0: CONFIGURAR ENTORNO VIRTUAL
 ────────────────────────────────────
 Desde la carpeta raíz del proyecto:
 
-$ cd "D:\PROYECTOS\Machine Learning Rogelio\Machine Learning\ML_Exportation_Project"
+$ cd "..............\ML_Exportation_Project"
 
 Crear el entorno virtual:
-$ python -m venv venv
+$ python -3.12 -m venv venv
 
 Activar el entorno virtual:
 
